@@ -1,7 +1,7 @@
 # 100-Days-of-Flutter-Challenge
 Welcome to my 100 Days of Flutter Challenge! In this journey, I will build one Flutter project each day, starting from simple UIs to advanced, full-featured mobile apps.
 
-# 🔥 What’s Included:
+## 🔥 What’s Included:
 📅 100 Projects — daily apps with increasing complexity
 
 🎨 Clean, responsive UIs
@@ -33,17 +33,17 @@ Each folder contains:
 📝 Notes or Learnings
 🔗 YouTube Short Link (if available)
 
-# 💡 Why I’m Doing This:
+## 💡 Why I’m Doing This:
 To become a pro-level Flutter developer, improve consistency, and build a solid portfolio. This repo reflects my dedication to learning, building, and growing every day.
 
-# 📽️ Follow My Daily Progress:
+## 📽️ Follow My Daily Progress:
 YouTube Playlist → Coming Soon
 Daily Videos → [Facebook Page / YouTube Shorts Link]
 Hashtag → #100DaysOfFlutterWithMoshaddaque
 
-# 🤝 Contributing:
+## 🤝 Contributing:
 This is a personal challenge, but feel free to fork, follow along, or suggest ideas in issues!
 
-# ⭐ Support:
+## ⭐ Support:
 If you like this project, consider giving it a ⭐ on GitHub and sharing with others!
 
